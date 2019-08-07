@@ -1,0 +1,4 @@
+org.bastide.Runtime,"Helper,org.bastide.WebApplication"
+Helper,"Search1,Search2"
+org.bastide.WebApplication,"WebException,Validator,Search1,Search2"
+org.bastide.WebException,"Search1,Search2,Validator,Validator"
